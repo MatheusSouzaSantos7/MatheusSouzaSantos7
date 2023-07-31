@@ -1,7 +1,14 @@
+<PORTUGUES>
+## Olá seja bem-vindo a minha conta!
+- 🌱 Atualmente, eu estudo JavaScript e C#.
+- 🔭 Trabalho atualmente como Desenvolvedor Front-End (Freelance)
+
+<ENGLISH>
 ## Hi! welcome to my profile! I'm Matheus Souza
 
-- 🔭 I currently work with front-end development
-- 🌱 I'm currently learning HTML, C# (in college) and JavaScript (studying on my own)
+- 🌱 I currently study JavaScript and C#.
+- 🔭 I currently work with front-end development (Freelance)
+
 
 <div style="display: inline_block">
   <img align="center" alt="mat-Js" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
