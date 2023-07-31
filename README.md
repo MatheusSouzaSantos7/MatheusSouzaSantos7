@@ -1,9 +1,9 @@
-#PORTUGUES
 ## Olá seja bem-vindo a minha conta!
 - 🌱 Atualmente, eu estudo JavaScript e C#.
 - 🔭 Trabalho atualmente como Desenvolvedor Front-End (Freelance)
 
-#ENGLISH
+##
+
 ## Hi! welcome to my profile! I'm Matheus Souza
 
 - 🌱 I currently study JavaScript and C#.
