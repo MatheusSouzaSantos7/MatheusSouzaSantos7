@@ -3,13 +3,6 @@
 - 🔭 Trabalho atualmente como Desenvolvedor Front-End (Freelance)
 
 ##
-
-## Hi! welcome to my profile! I'm Matheus Souza
-
-- 🌱 I currently study JavaScript and C#.
-- 🔭 I currently work with front-end development (Freelance)
-
-
 <div style="display: inline_block">
   <img align="center" alt="mat-Js" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="mat-html" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
